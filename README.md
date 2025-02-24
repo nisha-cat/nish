@@ -1,3 +1,3 @@
 # nish
-my first git repo
+my first git repository.
 author-nisha 
